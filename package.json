@@ -1,0 +1,26 @@
+{
+  "name": "day_2-_andelabs",
+  "version": "1.0.0",
+  "description": "Day 2 home session tasks; words and reverseString",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomipaul/day_2-_andelabs.git"
+  },
+  "keywords": [
+    "words",
+    "reverseString"
+  ],
+  "author": "Oluwatomi Akande",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomipaul/day_2-_andelabs/issues"
+  },
+  "homepage": "https://github.com/tomipaul/day_2-_andelabs#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
